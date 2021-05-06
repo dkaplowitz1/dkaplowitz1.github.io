@@ -1,0 +1,33 @@
+.button {
+    background: url(/images/linktree_bubble.svg) center no-repeat;
+    font-size: 2.5em;
+    text-align:center;
+    height:1.3em;
+    color: white;
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+}
+
+.button2 {
+    background: url(/images/linktree_bubble.svg) center no-repeat;
+    font-size: 1.6em;
+    text-align:center;
+    line-height:1.9em;
+    color: white;
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    
+    
+}
+
+.button3 {
+    background: url(/images/linktree_bubble.svg) center no-repeat;
+    font-size: 2.2em;
+    text-align:center;
+    height:1.3em;
+    color: white;
+    font-family: 'roboto', sans-serif;
+    font-weight: 400;
+    
+    
+}
